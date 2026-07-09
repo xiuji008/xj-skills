@@ -1,5 +1,6 @@
-# WorkBuddy 本地数据（包含本地配置和记忆，不应提交）
+# WorkBuddy / CodeBuddy 本地数据（包含本地配置和记忆，不应提交）
 .workbuddy/
+.codebuddy/
 
 # Python
 __pycache__/
@@ -65,3 +66,5 @@ Thumbs.db
 *.tmp
 *.temp
 .temp/
+
+.out/

@@ -92,7 +92,7 @@
 
 ## 🚀 快速开始
 
-### 方式一：一行安装（推荐）
+### 方式一：一行命令安装（推荐）
 
 ```bash
 npx skills add https://github.com/isjiamu/gzh-design-skill
