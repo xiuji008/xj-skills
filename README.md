@@ -17,6 +17,7 @@ WorkBuddy Skills 开发项目，按领域分类管理所有自定义 skill。
 
 | Skill | 说明 | 版本 |
 |-------|------|------|
+| [gzh-design-skill](writing/gzh-design-skill/) | 公众号排版引擎：Markdown 一键转为粘贴到公众号不掉格式的精美 HTML，内置 6 套主题 + 主题生成器 | v1.0 |
 | [ai-article-detector](writing/ai-article-detector/) | AI 含量检测：5维度分析（结构/语言/信息密度/情感立场/格式细节） | v1.0 |
 | [blog-text-polish](writing/blog-text-polish/) | 博客文字纠错·润色·去AI味：错别字检测、句式优化、AI痕迹改写 | v1.0 |
 | [wx-article-to-md](writing/wx-article-to-md/) | 微信公众号文章转 Markdown，图片自动上传自有 Chevereto 图床 | v2.1 |
