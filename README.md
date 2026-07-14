@@ -21,6 +21,7 @@ WorkBuddy Skills 开发项目，按领域分类管理所有自定义 skill。
 | [ai-article-detector](writing/ai-article-detector/) | AI 含量检测：5维度分析（结构/语言/信息密度/情感立场/格式细节） | v1.0 |
 | [blog-text-polish](writing/blog-text-polish/) | 博客文字纠错·润色·去AI味：错别字检测、句式优化、AI痕迹改写 | v1.0 |
 | [wx-article-to-md](writing/wx-article-to-md/) | 微信公众号文章转 Markdown，图片自动上传自有 Chevereto 图床 | v2.1 |
+| [image-bed-upload](writing/image-bed-upload/) | 文档图片图床上传：把 Markdown 本地图片批量上传到 Chevereto 图床并替换引用链接 | v1.0 |
 
 ## Skill 开发规范
 
