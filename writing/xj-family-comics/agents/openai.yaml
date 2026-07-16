@@ -1,0 +1,6 @@
+interface:
+  display_name: "饺子一家漫画"
+  short_description: "生成三口之家育儿哲理漫画（饺子/小鞋子/小修），每篇6格，幽默又富含思考"
+  default_prompt: "Use $xj-family-comics to 根据提示生成一篇饺子一家育儿哲理漫画（先列6格大纲，再逐格生图）。"
+policy:
+  allow_implicit_invocation: true
